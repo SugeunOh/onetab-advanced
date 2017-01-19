@@ -31,6 +31,6 @@ Currently this extension support two types of filtering for Active Tabs.
 
 The filtering is case Insensitive for now. But I shall soon add option to quickly toggle that.
 
-For now that was it. Got of future plans for this project. Shall keep you updated.
+For now that was it. Lot of future plans for this project. Shall keep you updated.
 
 from Pakistan with LOVE.
